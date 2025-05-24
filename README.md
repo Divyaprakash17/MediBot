@@ -33,7 +33,7 @@ A comprehensive medical chatbot that provides symptom assessment using Google's 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/medical-chatbot.git
+   git clone https://github.com/Divyaprakash17/MediBot.git
    cd medical-chatbot
    ```
 
