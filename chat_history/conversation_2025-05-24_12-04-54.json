@@ -1,0 +1,66 @@
+[
+  {
+    "role": "assistant",
+    "content": "Welcome! I'm here to help assess your symptoms. Please answer the following questions."
+  },
+  {
+    "role": "assistant",
+    "content": "What is your age?"
+  },
+  {
+    "role": "user",
+    "content": "24"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any current health concerns or symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "fever"
+  },
+  {
+    "role": "assistant",
+    "content": "How long have you had the fever?"
+  },
+  {
+    "role": "user",
+    "content": "4 hours"
+  },
+  {
+    "role": "assistant",
+    "content": "How high is your fever?"
+  },
+  {
+    "role": "user",
+    "content": "106f"
+  },
+  {
+    "role": "assistant",
+    "content": "Have you experienced any other symptoms along with the fever, such as chills, aches, or nausea?"
+  },
+  {
+    "role": "user",
+    "content": "aches"
+  },
+  {
+    "role": "assistant",
+    "content": "Where do you feel the aches?"
+  },
+  {
+    "role": "user",
+    "content": "body"
+  },
+  {
+    "role": "assistant",
+    "content": "On a scale of 1 to 10, with 10 being the most severe, how would you rate the severity of the aches?"
+  },
+  {
+    "role": "user",
+    "content": "8"
+  },
+  {
+    "role": "assistant",
+    "content": "Fever is characterized by an elevated body temperature.  If fever is high (over 103\u00b0F/39.4\u00b0C) or accompanied by other symptoms, seek medical attention.  For mild fevers, rest, fluids, and over-the-counter pain relievers like acetaminophen or ibuprofen may help (always check age-appropriate dosage)."
+  }
+]

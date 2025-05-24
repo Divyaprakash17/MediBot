@@ -1,0 +1,22 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hello! I'm your AI medical assistant. Could you please tell me what symptoms you're experiencing today?"
+  },
+  {
+    "role": "user",
+    "content": "fever"
+  },
+  {
+    "role": "assistant",
+    "content": "What is your temperature?"
+  },
+  {
+    "role": "user",
+    "content": "102.3\u00b0F"
+  },
+  {
+    "role": "assistant",
+    "content": "How long have you had the fever?"
+  }
+]

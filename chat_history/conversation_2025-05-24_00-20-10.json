@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hello! I'm your AI medical assistant. Could you please tell me what symptoms you're experiencing today?"
+  },
+  {
+    "role": "user",
+    "content": "fever"
+  },
+  {
+    "role": "assistant",
+    "content": "What is your temperature?"
+  },
+  {
+    "role": "user",
+    "content": "112 Fahrenheit"
+  },
+  {
+    "role": "assistant",
+    "content": "Is that a digital or oral reading?"
+  },
+  {
+    "role": "user",
+    "content": "digital"
+  },
+  {
+    "role": "assistant",
+    "content": "112\u00b0F is not a realistic temperature reading from a digital thermometer.  Are you sure that's correct?"
+  },
+  {
+    "role": "user",
+    "content": "102 degree fahrenheit"
+  },
+  {
+    "role": "assistant",
+    "content": "How long have you had the fever?"
+  },
+  {
+    "role": "user",
+    "content": "4 hours"
+  },
+  {
+    "role": "assistant",
+    "content": "Are you experiencing any other symptoms besides fever?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any chills?"
+  }
+]

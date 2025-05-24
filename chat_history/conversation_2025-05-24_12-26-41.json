@@ -1,0 +1,66 @@
+[
+  {
+    "role": "assistant",
+    "content": "Welcome! I'm here to help assess your symptoms. Please answer the following questions."
+  },
+  {
+    "role": "assistant",
+    "content": "What is your age?"
+  },
+  {
+    "role": "user",
+    "content": "22"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any current health concerns or symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "fever"
+  },
+  {
+    "role": "assistant",
+    "content": "How long have you had the fever?"
+  },
+  {
+    "role": "user",
+    "content": "4 days"
+  },
+  {
+    "role": "assistant",
+    "content": "Can you describe the severity of the fever?  Is it mild, moderate, or severe?"
+  },
+  {
+    "role": "user",
+    "content": "mild"
+  },
+  {
+    "role": "assistant",
+    "content": "Besides the fever, do you have any other symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Have you taken any medication to treat the fever?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any other symptoms, even mild ones, that you may have overlooked?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Fever is a common symptom with various causes.  If fever is high (over 100.4\u00b0F/38\u00b0C in adults, or as guided by your pediatrician for children), persistent, or accompanied by other symptoms, see a doctor.  For mild fevers, rest, fluids, and acetaminophen or ibuprofen (as directed on the label) may provide relief."
+  }
+]

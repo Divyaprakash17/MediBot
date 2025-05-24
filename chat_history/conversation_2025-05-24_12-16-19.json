@@ -1,0 +1,66 @@
+[
+  {
+    "role": "assistant",
+    "content": "Welcome! I'm here to help assess your symptoms. Please answer the following questions."
+  },
+  {
+    "role": "assistant",
+    "content": "What is your age?"
+  },
+  {
+    "role": "user",
+    "content": "19"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any current health concerns or symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "leg pain"
+  },
+  {
+    "role": "assistant",
+    "content": "Can you describe the leg pain?"
+  },
+  {
+    "role": "user",
+    "content": "muscle pain"
+  },
+  {
+    "role": "assistant",
+    "content": "Where in your leg is the muscle pain located?"
+  },
+  {
+    "role": "user",
+    "content": "calf"
+  },
+  {
+    "role": "assistant",
+    "content": "On a scale of 1 to 10, with 10 being the worst pain imaginable, how would you rate the severity of the calf muscle pain?"
+  },
+  {
+    "role": "user",
+    "content": "8"
+  },
+  {
+    "role": "assistant",
+    "content": "When did the calf muscle pain start?"
+  },
+  {
+    "role": "user",
+    "content": "4 hours ago"
+  },
+  {
+    "role": "assistant",
+    "content": "Does the calf pain radiate anywhere else?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Pain is a common symptom with many causes.  If pain is severe, persistent, or accompanied by other symptoms, seek medical attention.  For mild pain, consider over-the-counter pain relievers like ibuprofen or acetaminophen, following package directions."
+  }
+]

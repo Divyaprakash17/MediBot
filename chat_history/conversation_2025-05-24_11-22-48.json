@@ -1,0 +1,62 @@
+[
+  {
+    "role": "assistant",
+    "content": "Welcome! I'm here to help assess your symptoms. Please answer the following questions.\n\nWhat is your age?"
+  },
+  {
+    "role": "user",
+    "content": "24"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any current health concerns or symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "leg pain"
+  },
+  {
+    "role": "assistant",
+    "content": "Can you describe the leg pain?"
+  },
+  {
+    "role": "user",
+    "content": "severe"
+  },
+  {
+    "role": "assistant",
+    "content": "Where in your leg is the pain located?"
+  },
+  {
+    "role": "user",
+    "content": "in muscle"
+  },
+  {
+    "role": "assistant",
+    "content": "On a scale of 1 to 10, with 10 being the worst pain imaginable, how would you rate the severity of the muscle pain in your leg?"
+  },
+  {
+    "role": "user",
+    "content": "8"
+  },
+  {
+    "role": "assistant",
+    "content": "When did the muscle pain in your leg begin?"
+  },
+  {
+    "role": "user",
+    "content": "4 hours ago"
+  },
+  {
+    "role": "assistant",
+    "content": "Does the muscle pain in your leg radiate anywhere else?"
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "**1. SYMPTOM SUMMARY:**\n\n* **Leg pain:** The patient reports experiencing leg pain.  The duration and severity of the pain are not specified.\n\n\n**2. ASSESSMENT:**\n\nThe reported symptom of leg pain is non-specific and could be caused by a wide variety of conditions.  Possible causes, ranging in severity, include:\n\n* **Musculoskeletal issues:** Muscle strain, ligament sprain, arthritis, nerve compression (sciatica), bone fracture.\n* **Circulatory problems:** Peripheral artery disease (PAD), deep vein thrombosis (DVT).\n* **Other conditions:**  Infection, nerve damage,  referred pain from another area.\n\nGiven the lack of information regarding the duration, severity, location, and character of the pain,  it is impossible to determine a specific diagnosis.  The level of urgency is currently **undetermined** and requires further investigation.\n\n\n**3. RECOMMENDATIONS:**\n\n**Immediate Next Steps:**\n\n* **Describe the pain:**  The patient needs to carefully consider the characteristics of their leg pain. This includes:\n    * **Location:** Where exactly is the pain located in the leg?\n    * **Severity:** On a scale of 0-10 (0 being no pain, 10 being the worst pain imaginable), how would you rate the pain?\n    * **Character:** Is the pain sharp, dull, aching, throbbing, burning, or stabbing?\n    * **Onset:** When did"
+  }
+]

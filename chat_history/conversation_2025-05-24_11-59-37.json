@@ -1,0 +1,66 @@
+[
+  {
+    "role": "assistant",
+    "content": "Welcome! I'm here to help assess your symptoms. Please answer the following questions."
+  },
+  {
+    "role": "assistant",
+    "content": "What is your age?"
+  },
+  {
+    "role": "user",
+    "content": "20"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you have any current health concerns or symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "fever"
+  },
+  {
+    "role": "assistant",
+    "content": "When did the fever start?"
+  },
+  {
+    "role": "user",
+    "content": "2 days ago"
+  },
+  {
+    "role": "assistant",
+    "content": "How high is your fever?"
+  },
+  {
+    "role": "user",
+    "content": "112f"
+  },
+  {
+    "role": "assistant",
+    "content": "112\u00b0F is extremely high.  Are you sure that's correct?  Could you check your thermometer again?"
+  },
+  {
+    "role": "user",
+    "content": "107f"
+  },
+  {
+    "role": "assistant",
+    "content": "Besides the fever, do you have any other symptoms?"
+  },
+  {
+    "role": "user",
+    "content": "yes"
+  },
+  {
+    "role": "assistant",
+    "content": "You mentioned you have other symptoms besides the fever.  What are they?"
+  },
+  {
+    "role": "user",
+    "content": "headache"
+  },
+  {
+    "role": "assistant",
+    "content": "Headache and fever may indicate a common illness.  Try rest, fluids, and over-the-counter pain relievers like acetaminophen or ibuprofen.  Seek medical attention if symptoms worsen or persist beyond a few days."
+  }
+]
