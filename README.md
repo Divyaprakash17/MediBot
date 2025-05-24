@@ -131,16 +131,14 @@ medical_chatbot/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - Google Gemini for the AI capabilities
 - Streamlit for the web interface
-- OpenAI Whisper for speech recognition
-- PyAudio for audio processing
+- speech_recognition for speech recognition
+- pyttsx3 for text to speech
 
 ---
 
@@ -182,7 +180,6 @@ Made with ❤️ for better healthcare accessibility
 ## Troubleshooting
 
 - If you encounter issues with voice recognition, ensure your microphone is properly connected and permissions are granted.
-- For Whisper model download issues, check your internet connection and try again.
 - Make sure you have set the `GEMINI_API_KEY` in your `.env` file.
 
 ## License
