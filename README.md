@@ -123,14 +123,6 @@ medical_chatbot/
 - Optional cloud storage with Firebase
 - Secure handling of sensitive information
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 
 ## 🙏 Acknowledgments
@@ -182,6 +174,4 @@ Made with ❤️ for better healthcare accessibility
 - If you encounter issues with voice recognition, ensure your microphone is properly connected and permissions are granted.
 - Make sure you have set the `GEMINI_API_KEY` in your `.env` file.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
